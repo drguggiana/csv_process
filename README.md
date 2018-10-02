@@ -1,6 +1,8 @@
 # CSV Process
 
-Displays and plots csv files from the terminal
+Displays and plots csv files from the terminal. Not meant to be used!!
+
+Made at the Python Intermediate Workshop, October 2018, Munich, Germany
 
 ## Installation
 
